@@ -20,7 +20,9 @@ Performed Exploratory Data Analysis to ,
 
 2. Find the relationship between the important features and target
 
-Plotted heatmap with the help of df.corr() function to display the realtionship among the features , feature and target. Findings : 
+Plotted heatmap with the help of df.corr() function to display the realtionship among the features , feature and target. 
+
+Findings : 
 1. 4 features are negatively correlated with the target, while the rest are positively correlated
 2. Features with the negative correlation doesn’t have much of an impact on the target
 3. Nearly 10 features show a strong positive correlation with the final outcome
